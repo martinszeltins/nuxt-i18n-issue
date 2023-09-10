@@ -1,0 +1,9 @@
+{
+    "welcome": "Welcome!",
+    "sign_in": "Sign In",
+    "e_mail": "E-mail",
+    "password": "Password",
+    "forgot_password": "Forgot password",
+    "reset_password": "Reset password",
+    "reset_password_description": "Enter your email address and we will send you a link to reset your password."
+}
